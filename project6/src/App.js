@@ -13,7 +13,7 @@ function App() {
 			center: [39.61192, 55.76199],
 			zoom: 10
 		});			
-		return;		
+		return ()=>{ map.remove()};		
 	}, []);
 	return (
 		<>
