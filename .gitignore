@@ -7,14 +7,19 @@
 /project6/node_modules
 /project6/.pnp
 /project6/.pnp.js
+/project7/node_modules
+/project7/.pnp
+/project7/.pnp.js
 
 # testing
 /project5/coverage
 /project6/coverage
+/project7/coverage
 
 # production
 /project5/build
 /project6/build
+/project7/build
 
 # misc
 /project5/.DS_Store
@@ -27,6 +32,11 @@
 /project6/.env.development.local
 /project6/.env.test.local
 /project6/.env.production.local
+/project7/.DS_Store
+/project7/.env.local
+/project7/.env.development.local
+/project7/.env.test.local
+/project7/.env.production.local
 
 npm-debug.log*
 yarn-debug.log*
